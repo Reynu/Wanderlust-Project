@@ -1,3 +1,4 @@
+# Base image is mongo
 FROM mongo
 
 WORKDIR mongo
