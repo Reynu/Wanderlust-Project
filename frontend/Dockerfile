@@ -7,7 +7,7 @@ WORKDIR /app
 # Copy the package.json and package-lock.json for dependency installation
 COPY package*.json ./
 
-# Install dependencies
+# Install dependencies for wanderlust
 RUN npm install
 
 # Copy the rest of the application code
