@@ -7,7 +7,7 @@ WORKDIR /app
 # code
 COPY . .
 
-# packages install
+# packages install for node-app
 RUN npm i
 
 # tests
