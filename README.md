@@ -26,7 +26,7 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 - AWS EKS (Kubernetes)
 - Helm (Monitoring using grafana and prometheus)
 
-### How pipeline will look after deployment:
+### How pipeline will look after deployment:-
 - <b>CI pipeline to build and push</b>
 ![image](https://github.com/user-attachments/assets/20542d8b-0701-43ed-b2f8-82f8ed28d053)
 
